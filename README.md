@@ -7,7 +7,7 @@ It is believed that the screen usage affects the sleep duration because of the b
 - Collect sleep, concentration level and screen time data(in hours) for several months.
 - Collect daily happinness level by rating it from 1 to 5.  
 - Examine the correlation between the time spent on screens and total hours of sleep.
-- Analyze how mood and focus differ screen and sleep quality data.
+- Analyze how mood and focus differ based on screen and sleep quality data.
 - Understand how screen time habits might be influential on productivity, mood and sleep quality.
 - Use results to improve daily routines to have a healthier screen time habits.
 ## Data To Be Used
