@@ -2,7 +2,7 @@
 ## Overview 
 This project analyses the relationship between my daily screen time and sleep duration. In today's world, people spending most of their times in their phones, which can potentially affect their sleep schedule. This study aims to understand if there is a connection between the sleep time and screen usage. 
 ## Motivation
-It is believed that the screen usage affects the sleep duration because of the blue light exposure. In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear link between them. 
+It is believed that the screen usage affects the sleep duration because of the blue light exposure. With increasing use of digital devices, the affects of screens become a common worry.  In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear link between them. By doing so, I wish to understand how my screen habits might be influencing my sleep. 
 ## Objective
 - Collect sleep and screen time data for several months.  
 - Examine the correlation between the time spent on screens and total hours of sleep.
