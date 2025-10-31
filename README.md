@@ -1,17 +1,23 @@
 # Dsa210_term_project
 ## Overview 
-This project analyses the relationship between my daily screen time and sleep duration. In today's world, people spending most of their times in their phones, which can potentially affect their sleep schedule. This study aims to understand if there is a connection between the sleep time and screen usage. 
+This project analyses the relationship between my daily screen time, daily mood, focus level and sleep duration. In today's world, people spending most of their times in their phones, which can potentially affect their sleep schedule, focus level and also their mood. This study aims to understand how screen time and daily mood affects the focus level and sleep time. 
 ## Motivation
-It is believed that the screen usage affects the sleep duration because of the blue light exposure. With increasing use of digital devices, the affects of screens become a common worry.  In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear link between them. By doing so, I wish to understand how my screen habits might be influencing my sleep. 
+It is believed that the screen usage affects the sleep duration because of the blue light exposure. With increasing use of digital devices, the affects of screens become a common worry.  In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear link between them. Additionally, I plan to observe how these factors influence my daily mood and my focus level. By doing so, I wish to understand how my screen habits might be influencing my sleep, and also my happiness level and my concentration level. 
 ## Objective
-- Collect sleep and screen time data for several months.  
+- Collect sleep, concentration level and screen time data(in hours) for several months.
+- Collect happinness level by rating it from 1 to 5.  
 - Examine the correlation between the time spent on screens and total hours of sleep.
--  Analyze the data to understand how sleep quality is affected by the screen time habits.
--  Use results to improve daily routines to have a healthier screen time habits.
+- Analyze how mood and focus differ screen and sleep quality data.
+- Understand how screen time habits might be influential on productivity, mood and sleep quality.
+- Use results to improve daily routines to have a healthier screen time habits.
 ## Data To Be Used
 - ### Screen Time Data:
   Total daily screen time (in hours) collected from my phone.
 - ### Sleep Data:
-  Daily total sleep time(in hours) recorded by me. 
+  Daily total sleep time(in hours) recorded by me.
+- ### Daily Mood Data:
+  Daily happiness level rated from 1 to 5 through the data collection time.
+- ### Concentration level:
+  How many hours I can concentrate to study without a break (in hours) recorded by me.
   
 
