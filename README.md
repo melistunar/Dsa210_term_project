@@ -1,8 +1,9 @@
 # Dsa210_term_project
 ## Overview 
-This project analyzes the relationship between my daily screen time, daily mood, focus level and sleep duration. In today's world, people spend most of their times in their phones, which can potentially affect their sleep schedule, focus level and also their mood. This study aims to understand how screen time and daily mood affect both the focus level and sleep time. 
+This projects aims to explore how daily digital habits affect well-being and productivity. Screen time , especially in the evening, may affect sleep quality and focus. Also app categories (such as social media or creativity) may influence emotional and cognitive states. By analyzing my own daily data,  this project aims to understand the relation and change digital habits accordingly to be more healthy. 
+ 
 ## Motivation
-It is believed that the screen usage affects the sleep duration because of the blue light exposure. With increasing use of digital devices, the effects of screens become a common worry.  In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear correlation between them. Additionally, I plan to observe how these factors influence my daily mood and my focus level. By doing so, I wish to understand how my screen habits might be influencing my sleep, and also my happiness level and my concentration level. 
+Screen exposure, especially in the late hours may lead to poor sleep quality due to blue-light exposure. With increasing use of digital devices, the effects of screens become a common worry.  In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear correlation between them. Additionally, I plan to observe how these factors influence my daily mood and my focus level. By doing so, I wish to understand how my screen habits might be influencing my sleep, and also my happiness level and my concentration level. 
 ## Objective
 - Collect sleep, concentration level and screen time data(in hours) for several months.
 - Collect daily happinness level by rating it from 1 to 5.  
