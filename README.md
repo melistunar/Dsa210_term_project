@@ -3,7 +3,44 @@
 This projects aims to explore how daily digital habits affect well-being and productivity. Screen time , especially in the evening, may affect sleep quality and focus. Also app categories (such as social media or creativity) may influence emotional and cognitive states. By analyzing my own daily data,  this project aims to understand the relation and change digital habits accordingly to be more healthy. 
  
 ## Motivation
-Screen exposure, especially in the late hours may lead to poor sleep quality due to blue-light exposure. With increasing use of digital devices, the effects of screens become a common worry.  In this project, I aim to analyze my own daily screen time and sleep duration to see if there is a clear correlation between them. Additionally, I plan to observe how these factors influence my daily mood and my focus level. By doing so, I wish to understand how my screen habits might be influencing my sleep, and also my happiness level and my concentration level. 
+Screen exposure, especially in the late hours may lead to poor sleep quality due to blue-light exposure. Emotional aspects such as mood and stress depends on the daily screen usage. Furthermore, screen time spent on diffeent categories is also important. Understanding the relationship with actual data to improve daily routines and increase personal productivity.
+
+## Data Collection Plan
+Data is collected daily for 30 days.
+### Daily Collected Data
+- Total screen time (in hours)
+- Evening screen time
+- App category usage (social media, entertainment, productivity)
+- Sleep duration (in hours)
+- Mood( rated daily from 1 to 5)
+- Stress ( rated daily from 1 to 5)
+- Focus (rated daily from 1 to 5)
+### Derived Data 
+- Productivity score, which will be calculated using focus, sleep duration and mood.
+  productivity = focus level * (0.5) + sleep * (0.3) + mood * (0.2)
+- Evening screen ratio
+- Social media ratio
+
+## Hypothesis 
+This project uses 5 hypothesis:
+1. H1: Evening Screen Time & Sleep: Higher evening screen time is associated with the shorter sleep duration.
+2. H2: Sleep & Productivity: Higher sleep hour leads to higher productivity score.
+3. H3: Evening Screen Ratio & Next Day Focus: higher evening screen ratio leads to lower next day focus.
+4. H4: App categories & Stress: Higher social media usage is associated with higher stress levels.
+
+## Methodology
+### Data Collection Plan 
+Daily manual input collection.
+### Data Cleaning
+Verify missing values and detect outlier values
+Calculate the derived variables
+### Exploratory Data Analysis (EDA)
+Calculating summary statistics (mean, median and standard deviation)
+Data visualization (Histograms, Boxplots, Scatterplots)
+### Hypothesis Testing 
+Pearson-Spearman correlations
+p-Values for significance 
+  
 ## Objective
 - Collect sleep, concentration level and screen time data(in hours) for several months.
 - Collect daily happinness level by rating it from 1 to 5.  
@@ -11,14 +48,3 @@ Screen exposure, especially in the late hours may lead to poor sleep quality due
 - Analyze how mood and focus differ based on screen and sleep quality data.
 - Understand how screen time habits might be influential on productivity, mood and sleep quality.
 - Use results to improve daily routines to have a healthier screen time habits.
-## Data To Be Used
-- ### Screen Time Data:
-  Total daily screen time (in hours) collected from my phone.
-- ### Sleep Data:
-  Daily total sleep time(in hours) recorded by me.
-- ### Daily Mood Data:
-  Daily happiness level rated from 1 to 5 through the data collection time.
-- ### Concentration level:
-- Duration of time I can focus on studying or working without a break (in hours), recorded by me.
-  
-
