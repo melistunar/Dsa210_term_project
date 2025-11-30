@@ -17,7 +17,7 @@ Data is collected daily for 30 days.
 - Focus (rated daily from 1 to 5)
 ### Derived Data 
 - Productivity score, which will be calculated using focus, sleep duration and mood.
-  productivity = focus level * (0.5) + sleep * (0.3) + mood * (0.2)
+  Productivity = focus level * (0.5) + sleep * (0.3) + mood * (0.2)
 - Evening screen ratio
 - Social media ratio
 
