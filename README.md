@@ -38,8 +38,7 @@ Calculate the derived variables
 Calculating summary statistics (mean, median and standard deviation)
 Data visualization (Histograms, Boxplots, Scatterplots)
 ### Hypothesis Testing 
-Pearson-Spearman correlations
-p-Values for significance 
+Correlation tests(Pearson-Spearman correlations and p-Values for significance )
   
 ## Objective
 - Analyzing the relation between screen habits and emotional states(mood, focus, stress)
