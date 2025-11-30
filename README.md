@@ -1,6 +1,6 @@
 # Dsa210_term_project
 ## Overview 
-This projects aims to explore how daily digital habits affect well-being and productivity. Screen time , especially in the evening, may affect sleep quality and focus. Also app categories (such as social media or creativity) may influence emotional and cognitive states. By analyzing my own daily data,  this project aims to understand the relation and change digital habits accordingly to be more healthy. 
+This project aims to explore how daily digital habits affect well-being and productivity. Screen time , especially in the evening, may affect sleep quality and focus. Also app categories (such as social media or creativity) may influence emotional and cognitive states. By analyzing my own daily data,  this project aims to understand the relation and change digital habits accordingly to be more healthy. 
  
 ## Motivation
 Screen exposure, especially in the late hours may lead to poor sleep quality due to blue-light exposure. Emotional aspects such as mood and stress depends on the daily screen usage. Furthermore, screen time spent on diffeent categories is also important. Understanding the relationship with actual data to improve daily routines and increase personal productivity.
@@ -22,7 +22,7 @@ Data is collected daily for 30 days.
 - Social media ratio
 
 ## Hypothesis 
-This project uses 5 hypothesis:
+This project uses 4 hypothesis:
 1. H1: Evening Screen Time & Sleep: Higher evening screen time is associated with the shorter sleep duration.
 2. H2: Sleep & Productivity: Higher sleep hour leads to higher productivity score.
 3. H3: Evening Screen Ratio & Next Day Focus: higher evening screen ratio leads to lower next day focus.
@@ -42,9 +42,7 @@ Pearson-Spearman correlations
 p-Values for significance 
   
 ## Objective
-- Collect sleep, concentration level and screen time data(in hours) for several months.
-- Collect daily happinness level by rating it from 1 to 5.  
-- Examine the correlation between the time spent on screens and total hours of sleep.
-- Analyze how mood and focus differ based on screen and sleep quality data.
-- Understand how screen time habits might be influential on productivity, mood and sleep quality.
-- Use results to improve daily routines to have a healthier screen time habits.
+- Analyzing the relation between screen habits and emotional states(mood, focus, stress)
+- Investigate whether different app categories correlate with mood and stress
+- Calculate a daily productivity score to evaluate how productivity is affected by sleep, mood and screen time
+- Use findings to improve productivity and daily routines
