@@ -32,16 +32,36 @@ This project uses 4 hypothesis:
 ### Data Collection Plan 
 Daily manual input collection.
 ### Data Cleaning
-Verify missing values and detect outlier values
-Calculate the derived variables
+Checked for missing values.
+Converted numeric values into correct format.
+Calculate the derived variables(Productivity Score and Ratios).
 ### Exploratory Data Analysis (EDA)
-Calculating summary statistics (mean, median and standard deviation)
-Data visualization (Histograms, Boxplots, Scatterplots)
+Calculating summary statistics (mean, median and standard deviation).
+Histograms to examine the distribution of numerical variables and identify potential skewness.
+Scatter plots to visualize the relationship for each hypothesis.
+Correlation matrix and heatmap to get an overall view of lineer relationships among the variables.
 ### Hypothesis Testing 
-Correlation tests(Pearson-Spearman correlations and p-Values for significance )
-  
+Pearson correlation is used for hypothesis testing. 
+Significance level α = 0.05 is used.
+For each hypothesis:
+  - H0(Null Hypothesis): No lineer relationship exists.
+  - H1(Alternative Hypothesis): A lineer relationship exists.
+Hypothesis are tested by comparing p-values to the significance levels.  
 ## Objective
 - Analyzing the relation between screen habits and emotional states(mood, focus, stress)
 - Investigate whether different app categories correlate with mood and stress
 - Calculate a daily productivity score to evaluate how productivity is affected by sleep, mood and screen time
 - Use findings to improve productivity and daily routines
+## Results
+### H1:Evening Screen Time & Sleep
+- Result: No correlation observed, fail to reject H0.
+- There is not sufficient evidence to say that evening screen time is significantly associated with sleep duration.
+### H2:Sleep & Productivity
+- Result: No correlation observed, fail to reject H0.
+- There is not sufficient evidence to say that sleep duration is significantly related to productivity score.
+### H3: Evening Screen Ratio & Next Day Focus
+- Result: No correlation observed, fail to reject H0.
+- There is not sufficient evidence to say that a higher evening screen ratio is significantly associated with lower focus levels.
+### H4: App categories & Stress
+- Result: No correlation observed, fail to reject H0.
+- There is not sufficient evidence to say that increased social media usage is significantly associated with higher stress levels. 
