@@ -68,7 +68,9 @@ Hypothesis are tested by comparing p-values to the significance levels.
 
 ## Machine Learning Application
 In addition to the exploratory data analysis and hypothesis testing, a supervised machine learning approach was applied to the dataset. The task was formulated as a regression problem, where the objective was to predict the daily productivity score based on other features (sleep, focus, evening screen ratio, social media ratio). 
+
 Multiple linear regression was selected due to the continuous nature of the target variable and the limited size of the dataset. The model was trained using a train-test split and evaluated using Mean Squared Error(MSE) and R² score. 
+
 Model coefficients were analyzed to interpret the influence of different features on productivity. This machine learning component is intended to demonstrate the application of supervised learning methods on behavioral data rather than to build a high-accuracy predictive system.
 
 
